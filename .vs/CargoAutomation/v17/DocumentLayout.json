@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|c:\\users\\user\\documents\\elifhusnaturkay\\kargo-otomasyonu\\cargoautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\authorizeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\authorizeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\addbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\addbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\analiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\analiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\sehirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\sehirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\cargoautomation\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD98207C-49A7-424F-B7C9-7CCB2DAC92D4}|CargoAutomation\\CargoAutomation.csproj|solutionrelative:cargoautomation\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUser.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AddUser.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\AddUser.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AddUser.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CargoAutomation\\AddUser.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:05:31.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AdminPage.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\AdminPage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AdminPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CargoAutomation\\AdminPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:05:24.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBranch.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AddBranch.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\AddBranch.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AddBranch.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CargoAutomation\\AddBranch.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:05:22.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "CargoAutomation\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwMwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:52:15.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "CargoAutomation\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Properties\\Resources.resx",
+              "RelativeToolTip": "CargoAutomation\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-29T17:52:06.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Database.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Database.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Database.cs",
+              "RelativeToolTip": "CargoAutomation\\Database.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:36:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Analiz.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Analiz.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Analiz.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Analiz.cs",
+              "RelativeToolTip": "CargoAutomation\\Analiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:35:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kargo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Kargo.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Kargo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Kargo.cs",
+              "RelativeToolTip": "CargoAutomation\\Kargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:35:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Kullanici.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Kullanici.cs",
+              "RelativeToolTip": "CargoAutomation\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:35:51.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Program.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Program.cs",
+              "RelativeToolTip": "CargoAutomation\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:34:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\CustomerPage.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\CustomerPage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\CustomerPage.cs",
+              "RelativeToolTip": "CargoAutomation\\CustomerPage.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA8wEcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:05:49.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizeUser.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AuthorizeUser.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\AuthorizeUser.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\AuthorizeUser.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CargoAutomation\\AuthorizeUser.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:05:37.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\CustomerPage.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\CustomerPage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\CustomerPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CargoAutomation\\CustomerPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:06:02.031Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sehirler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Sehirler.cs",
+              "RelativeDocumentMoniker": "CargoAutomation\\Sehirler.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\elifhusnaturkay\\Kargo-Otomasyonu\\CargoAutomation\\Sehirler.cs",
+              "RelativeToolTip": "CargoAutomation\\Sehirler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:36:15.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
